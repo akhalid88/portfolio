@@ -171,7 +171,7 @@ export const contentPortfolio = [
 		id: 4,
 		title: "Content Relax Mobile App",
 		img:
-			"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+			"https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
 	},
 	{
 		id: 5,
@@ -183,6 +183,6 @@ export const contentPortfolio = [
 		id: 6,
 		title: "Content Banking App",
 		img:
-			"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+			"https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
 	},
 ];
