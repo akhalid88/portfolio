@@ -24,6 +24,7 @@
 			flex-direction: column;
 			justify-content: space-around;
 			padding: 20px;
+			transition: all 1s ease;
 
 			&.featured {
 				width: 300px;
